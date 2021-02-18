@@ -4,6 +4,7 @@ package com.company;
 public interface inter {
     void m1();
     void m2();
+
 }
 
 // while providing implementation of methods in inter, we have to provide public access to methods
